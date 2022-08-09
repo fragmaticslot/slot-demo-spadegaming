@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-demo-spadegaming",
+        "command": "slot-demo-spadegaming:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-demo-spadegaming",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-demo-spadegaming:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

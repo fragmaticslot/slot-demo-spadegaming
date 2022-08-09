@@ -1,0 +1,18 @@
+{
+  "name": "slot-demo-spadegaming",
+  "main": "./lib/slot-demo-spadegaming",
+  "version": "1.0.0",
+  "description": "Daftar Web Kumpulan Game Gacor Slot Demo Spadegaming Deposit Pulsa Xl",
+  "keywords": ["cq9 slot online","toptrend gaming slot","slot joker gaming","microgaming","pocket gaming soft","slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-demo-spadegaming:toggle"
+  },
+  "repository": "https://github.com/fragmaticslot/slot-demo-spadegaming",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
