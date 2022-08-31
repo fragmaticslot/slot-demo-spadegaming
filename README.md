@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Kumpulan Trik Kumpulan Game Gacor Slot Demo Spadegaming Tanpa Rekening](https://atom.io/packages/slot-demo-spadegaming)
-## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/register/) :star2: <<< 
-## :radio_button: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :heavy_check_mark: <<< 
-## :o: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/register/) :cake: <<< 
+## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/register/) :star2: <<< 
+## :radio_button: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :heavy_check_mark: <<< 
+## :o: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/register/) :cake: <<< 
 
 ## Informasi Situs /Server Kami : 
 
